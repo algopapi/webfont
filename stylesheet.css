@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'cooper_lt_btlight';
-    src: url('cooperlightbt-webfont.woff2') format('woff2'),
+    src: url('https://github.com/algopapi/webfont/blob/8050148d60c0d0bb50c91e6b6bfc360faeb35566/cooperlightbt-webfont.woff') format('woff2'),
          url('cooperlightbt-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
