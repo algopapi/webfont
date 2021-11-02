@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'cooper_lt_btlight';
-    src: url('https://github.com/algopapi/webfont/blob/8050148d60c0d0bb50c91e6b6bfc360faeb35566/cooperlightbt-webfont.woff') format('woff2'),
-         url('cooperlightbt-webfont.woff') format('woff');
+    src: url('https://cdn.rawgit.com/algopapi/webfont/blob/8050148d60c0d0bb50c91e6b6bfc360faeb35566/cooperlightbt-webfont.woff') format('woff2'),
+         url('https://cdn.rawgit.com/algopapi/webfont/blob/4d06b4f724ceff126670967b162651d0a4a07c1b/cooperlightbt-webfont.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
 
